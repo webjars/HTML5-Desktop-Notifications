@@ -25,9 +25,9 @@
     </licenses>
 
     <scm>
-        <url>http://github.com/webjars/cowwoc-HTML5-Desktop-Notifications</url>
-        <connection>scm:git:https://github.com/webjars/cowwoc-HTML5-Desktop-Notifications.git</connection>
-        <developerConnection>scm:git:https://github.com/webjars/cowwoc-HTML5-Desktop-Notifications.git</developerConnection>
+        <url>http://github.com/webjars/HTML5-Desktop-Notifications</url>
+        <connection>scm:git:https://github.com/webjars/HTML5-Desktop-Notifications.git</connection>
+        <developerConnection>scm:git:https://github.com/webjars/HTML5-Desktop-Notifications.git</developerConnection>
         <tag>HEAD</tag>
     </scm>
 

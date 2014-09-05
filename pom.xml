@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>html5-desktop-notifications</artifactId>
-    <version>1.0.1</version>
+    <version>1.0.2-SNAPSHOT</version>
     <name>HTML5-Desktop-Notifications</name>
     <description>WebJar for HTML5 Desktop Notifications</description>
     <url>http://webjars.org</url>
@@ -28,7 +28,7 @@
         <url>http://github.com/webjars/HTML5-Desktop-Notifications</url>
         <connection>scm:git:https://github.com/webjars/HTML5-Desktop-Notifications.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/HTML5-Desktop-Notifications.git</developerConnection>
-        <tag>html5-desktop-notifications-1.0.1</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <developers>
